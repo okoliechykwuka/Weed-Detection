@@ -1,2 +1,12 @@
 # Weed-Detection
-kkddl
+
+**Keywords** :-
+Computer vision, Deep learning, Weed detection and crop detection, tensorflow-api
+
+**Problem Statement**
+
+Objects contained in image ﬁles can be located and identiﬁed automatically. This is called object detection and is one of the basic problems of computer vision. As we will demonstrate, region-base convolutional neural networks(Faster R-CNN) are currently the state-of-theart solution for object detection. The main task of this thesis is to detection and classification of carrot  crop  and weed.
+
+**Output Result**
+
+![Detected Crops](https://octodex.github.com/images/yaktocat.png)
