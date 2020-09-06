@@ -9,4 +9,4 @@ Objects contained in image ﬁles can be located and identiﬁed automatically. 
 
 **Output Result**
 
-![Detected Crops](https://octodex.github.com/images/yaktocat.png)
+![test1](https://github.com/okoliechykwuka/Weed-Detection/blob/master/test%20result/test1.png)
