@@ -9,4 +9,6 @@ Objects contained in image ﬁles can be located and identiﬁed automatically. 
 
 **Output Result**
 
-![test1](https://github.com/okoliechykwuka/Weed-Detection/blob/master/test%20result/test1.png)
+* Test 1
+
+![test1](https://github.com/okoliechykwuka/Weed-Detection/blob/master/test%20result/test2.png)
