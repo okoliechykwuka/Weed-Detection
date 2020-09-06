@@ -1,6 +1,6 @@
 # Weed-Detection
 
-**Keywords** :-
+**Areas Involved** :-
 Computer vision, Deep learning, Weed detection and crop detection, tensorflow-api
 
 **Problem Statement**
