@@ -11,7 +11,7 @@ Objects contained in image ﬁles can be located and identiﬁed automatically. 
 
 * Test 1
 
-![test1](https://github.com/okoliechykwuka/Weed-Detection/blob/master/test%20result/test2.png, width = 30, height - 30)
+![test1](https://github.com/okoliechykwuka/Weed-Detection/blob/master/test%20result/test2.png, width = 30,)
 
 * Test 8
 
